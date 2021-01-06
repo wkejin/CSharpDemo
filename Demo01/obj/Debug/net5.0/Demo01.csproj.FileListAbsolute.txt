@@ -1,0 +1,16 @@
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo01\bin\Debug\net5.0\Demo01.exe
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo01\bin\Debug\net5.0\Demo01.deps.json
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo01\bin\Debug\net5.0\Demo01.runtimeconfig.json
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo01\bin\Debug\net5.0\Demo01.runtimeconfig.dev.json
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo01\bin\Debug\net5.0\Demo01.dll
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo01\bin\Debug\net5.0\ref\Demo01.dll
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo01\bin\Debug\net5.0\Demo01.pdb
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo01\obj\Debug\net5.0\Demo01.csprojAssemblyReference.cache
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo01\obj\Debug\net5.0\Demo01.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo01\obj\Debug\net5.0\Demo01.AssemblyInfoInputs.cache
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo01\obj\Debug\net5.0\Demo01.AssemblyInfo.cs
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo01\obj\Debug\net5.0\Demo01.csproj.CoreCompileInputs.cache
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo01\obj\Debug\net5.0\Demo01.dll
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo01\obj\Debug\net5.0\ref\Demo01.dll
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo01\obj\Debug\net5.0\Demo01.pdb
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo01\obj\Debug\net5.0\Demo01.genruntimeconfig.cache
