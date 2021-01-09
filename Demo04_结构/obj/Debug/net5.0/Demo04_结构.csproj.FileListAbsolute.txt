@@ -1,0 +1,16 @@
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo04_结构\bin\Debug\net5.0\Demo04_结构.exe
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo04_结构\bin\Debug\net5.0\Demo04_结构.deps.json
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo04_结构\bin\Debug\net5.0\Demo04_结构.runtimeconfig.json
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo04_结构\bin\Debug\net5.0\Demo04_结构.runtimeconfig.dev.json
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo04_结构\bin\Debug\net5.0\Demo04_结构.dll
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo04_结构\bin\Debug\net5.0\ref\Demo04_结构.dll
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo04_结构\bin\Debug\net5.0\Demo04_结构.pdb
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo04_结构\obj\Debug\net5.0\Demo04_结构.csprojAssemblyReference.cache
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo04_结构\obj\Debug\net5.0\Demo04_结构.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo04_结构\obj\Debug\net5.0\Demo04_结构.AssemblyInfoInputs.cache
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo04_结构\obj\Debug\net5.0\Demo04_结构.AssemblyInfo.cs
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo04_结构\obj\Debug\net5.0\Demo04_结构.csproj.CoreCompileInputs.cache
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo04_结构\obj\Debug\net5.0\Demo04_结构.dll
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo04_结构\obj\Debug\net5.0\ref\Demo04_结构.dll
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo04_结构\obj\Debug\net5.0\Demo04_结构.pdb
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo04_结构\obj\Debug\net5.0\Demo04_结构.genruntimeconfig.cache
