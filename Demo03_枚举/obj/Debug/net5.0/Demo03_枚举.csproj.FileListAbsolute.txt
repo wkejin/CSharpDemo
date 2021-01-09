@@ -1,0 +1,16 @@
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo03_枚举\bin\Debug\net5.0\Demo03_枚举.exe
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo03_枚举\bin\Debug\net5.0\Demo03_枚举.deps.json
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo03_枚举\bin\Debug\net5.0\Demo03_枚举.runtimeconfig.json
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo03_枚举\bin\Debug\net5.0\Demo03_枚举.runtimeconfig.dev.json
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo03_枚举\bin\Debug\net5.0\Demo03_枚举.dll
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo03_枚举\bin\Debug\net5.0\ref\Demo03_枚举.dll
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo03_枚举\bin\Debug\net5.0\Demo03_枚举.pdb
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo03_枚举\obj\Debug\net5.0\Demo03_枚举.csprojAssemblyReference.cache
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo03_枚举\obj\Debug\net5.0\Demo03_枚举.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo03_枚举\obj\Debug\net5.0\Demo03_枚举.AssemblyInfoInputs.cache
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo03_枚举\obj\Debug\net5.0\Demo03_枚举.AssemblyInfo.cs
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo03_枚举\obj\Debug\net5.0\Demo03_枚举.csproj.CoreCompileInputs.cache
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo03_枚举\obj\Debug\net5.0\Demo03_枚举.dll
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo03_枚举\obj\Debug\net5.0\ref\Demo03_枚举.dll
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo03_枚举\obj\Debug\net5.0\Demo03_枚举.pdb
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo03_枚举\obj\Debug\net5.0\Demo03_枚举.genruntimeconfig.cache
