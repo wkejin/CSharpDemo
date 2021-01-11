@@ -1,0 +1,16 @@
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo05_乘法表\bin\Debug\net5.0\Demo05_乘法表.exe
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo05_乘法表\bin\Debug\net5.0\Demo05_乘法表.deps.json
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo05_乘法表\bin\Debug\net5.0\Demo05_乘法表.runtimeconfig.json
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo05_乘法表\bin\Debug\net5.0\Demo05_乘法表.runtimeconfig.dev.json
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo05_乘法表\bin\Debug\net5.0\Demo05_乘法表.dll
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo05_乘法表\bin\Debug\net5.0\ref\Demo05_乘法表.dll
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo05_乘法表\bin\Debug\net5.0\Demo05_乘法表.pdb
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo05_乘法表\obj\Debug\net5.0\Demo05_乘法表.csprojAssemblyReference.cache
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo05_乘法表\obj\Debug\net5.0\Demo05_乘法表.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo05_乘法表\obj\Debug\net5.0\Demo05_乘法表.AssemblyInfoInputs.cache
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo05_乘法表\obj\Debug\net5.0\Demo05_乘法表.AssemblyInfo.cs
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo05_乘法表\obj\Debug\net5.0\Demo05_乘法表.csproj.CoreCompileInputs.cache
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo05_乘法表\obj\Debug\net5.0\Demo05_乘法表.dll
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo05_乘法表\obj\Debug\net5.0\ref\Demo05_乘法表.dll
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo05_乘法表\obj\Debug\net5.0\Demo05_乘法表.pdb
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo05_乘法表\obj\Debug\net5.0\Demo05_乘法表.genruntimeconfig.cache
