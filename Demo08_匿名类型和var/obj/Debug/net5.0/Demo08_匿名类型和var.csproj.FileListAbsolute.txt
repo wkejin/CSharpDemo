@@ -1,0 +1,16 @@
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo08_匿名类型和var\bin\Debug\net5.0\Demo08_匿名类型和var.exe
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo08_匿名类型和var\bin\Debug\net5.0\Demo08_匿名类型和var.deps.json
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo08_匿名类型和var\bin\Debug\net5.0\Demo08_匿名类型和var.runtimeconfig.json
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo08_匿名类型和var\bin\Debug\net5.0\Demo08_匿名类型和var.runtimeconfig.dev.json
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo08_匿名类型和var\bin\Debug\net5.0\Demo08_匿名类型和var.dll
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo08_匿名类型和var\bin\Debug\net5.0\ref\Demo08_匿名类型和var.dll
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo08_匿名类型和var\bin\Debug\net5.0\Demo08_匿名类型和var.pdb
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo08_匿名类型和var\obj\Debug\net5.0\Demo08_匿名类型和var.csprojAssemblyReference.cache
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo08_匿名类型和var\obj\Debug\net5.0\Demo08_匿名类型和var.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo08_匿名类型和var\obj\Debug\net5.0\Demo08_匿名类型和var.AssemblyInfoInputs.cache
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo08_匿名类型和var\obj\Debug\net5.0\Demo08_匿名类型和var.AssemblyInfo.cs
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo08_匿名类型和var\obj\Debug\net5.0\Demo08_匿名类型和var.csproj.CoreCompileInputs.cache
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo08_匿名类型和var\obj\Debug\net5.0\Demo08_匿名类型和var.dll
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo08_匿名类型和var\obj\Debug\net5.0\ref\Demo08_匿名类型和var.dll
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo08_匿名类型和var\obj\Debug\net5.0\Demo08_匿名类型和var.pdb
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo08_匿名类型和var\obj\Debug\net5.0\Demo08_匿名类型和var.genruntimeconfig.cache
