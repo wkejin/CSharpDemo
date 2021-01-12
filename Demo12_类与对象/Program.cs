@@ -7,6 +7,7 @@ namespace Demo12_类与对象
         static void Main(string[] args)
         {
             Student stu1 = new Student(1, "张三", "3(2)");
+            stu1.Say();
             Console.WriteLine($"我是{stu1.Name}, 我在{stu1.ClassName}班");
         }
     }
