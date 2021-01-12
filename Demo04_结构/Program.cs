@@ -24,7 +24,7 @@ namespace Demo04_结构
             Student stuZS;
             stuZS._id = 1;
             stuZS._name = "张三";
-            stuZS._age = 18;
+            stuZS._age = 20;
 
             stuZS.Say();
         }
