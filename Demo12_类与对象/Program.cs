@@ -15,6 +15,14 @@ namespace Demo12_类与对象
     public class Student
     {
         /// <summary>
+        /// 此为Student类的默认构造方法
+        /// </summary>
+        public Student()
+        {
+
+        }
+        
+        /// <summary>
         /// Student类的构造方法，用于初始化Student对象
         /// </summary>
         /// <param name="id"></param>
