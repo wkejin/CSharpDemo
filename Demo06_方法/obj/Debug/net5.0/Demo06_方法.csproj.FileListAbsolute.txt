@@ -1,0 +1,16 @@
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo06_方法\bin\Debug\net5.0\Demo06_方法.exe
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo06_方法\bin\Debug\net5.0\Demo06_方法.deps.json
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo06_方法\bin\Debug\net5.0\Demo06_方法.runtimeconfig.json
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo06_方法\bin\Debug\net5.0\Demo06_方法.runtimeconfig.dev.json
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo06_方法\bin\Debug\net5.0\Demo06_方法.dll
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo06_方法\bin\Debug\net5.0\ref\Demo06_方法.dll
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo06_方法\bin\Debug\net5.0\Demo06_方法.pdb
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo06_方法\obj\Debug\net5.0\Demo06_方法.csprojAssemblyReference.cache
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo06_方法\obj\Debug\net5.0\Demo06_方法.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo06_方法\obj\Debug\net5.0\Demo06_方法.AssemblyInfoInputs.cache
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo06_方法\obj\Debug\net5.0\Demo06_方法.AssemblyInfo.cs
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo06_方法\obj\Debug\net5.0\Demo06_方法.csproj.CoreCompileInputs.cache
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo06_方法\obj\Debug\net5.0\Demo06_方法.dll
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo06_方法\obj\Debug\net5.0\ref\Demo06_方法.dll
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo06_方法\obj\Debug\net5.0\Demo06_方法.pdb
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo06_方法\obj\Debug\net5.0\Demo06_方法.genruntimeconfig.cache
