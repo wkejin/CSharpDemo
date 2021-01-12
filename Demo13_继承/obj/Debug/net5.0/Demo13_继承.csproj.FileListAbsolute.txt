@@ -1,0 +1,16 @@
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo13_继承\bin\Debug\net5.0\Demo13_继承.exe
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo13_继承\bin\Debug\net5.0\Demo13_继承.deps.json
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo13_继承\bin\Debug\net5.0\Demo13_继承.runtimeconfig.json
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo13_继承\bin\Debug\net5.0\Demo13_继承.runtimeconfig.dev.json
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo13_继承\bin\Debug\net5.0\Demo13_继承.dll
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo13_继承\bin\Debug\net5.0\ref\Demo13_继承.dll
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo13_继承\bin\Debug\net5.0\Demo13_继承.pdb
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo13_继承\obj\Debug\net5.0\Demo13_继承.csprojAssemblyReference.cache
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo13_继承\obj\Debug\net5.0\Demo13_继承.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo13_继承\obj\Debug\net5.0\Demo13_继承.AssemblyInfoInputs.cache
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo13_继承\obj\Debug\net5.0\Demo13_继承.AssemblyInfo.cs
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo13_继承\obj\Debug\net5.0\Demo13_继承.csproj.CoreCompileInputs.cache
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo13_继承\obj\Debug\net5.0\Demo13_继承.dll
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo13_继承\obj\Debug\net5.0\ref\Demo13_继承.dll
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo13_继承\obj\Debug\net5.0\Demo13_继承.pdb
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo13_继承\obj\Debug\net5.0\Demo13_继承.genruntimeconfig.cache
