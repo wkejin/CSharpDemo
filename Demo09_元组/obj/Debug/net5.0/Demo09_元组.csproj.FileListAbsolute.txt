@@ -1,0 +1,16 @@
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo09_元组\bin\Debug\net5.0\Demo09_元组.exe
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo09_元组\bin\Debug\net5.0\Demo09_元组.deps.json
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo09_元组\bin\Debug\net5.0\Demo09_元组.runtimeconfig.json
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo09_元组\bin\Debug\net5.0\Demo09_元组.runtimeconfig.dev.json
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo09_元组\bin\Debug\net5.0\Demo09_元组.dll
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo09_元组\bin\Debug\net5.0\ref\Demo09_元组.dll
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo09_元组\bin\Debug\net5.0\Demo09_元组.pdb
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo09_元组\obj\Debug\net5.0\Demo09_元组.csprojAssemblyReference.cache
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo09_元组\obj\Debug\net5.0\Demo09_元组.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo09_元组\obj\Debug\net5.0\Demo09_元组.AssemblyInfoInputs.cache
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo09_元组\obj\Debug\net5.0\Demo09_元组.AssemblyInfo.cs
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo09_元组\obj\Debug\net5.0\Demo09_元组.csproj.CoreCompileInputs.cache
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo09_元组\obj\Debug\net5.0\Demo09_元组.dll
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo09_元组\obj\Debug\net5.0\ref\Demo09_元组.dll
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo09_元组\obj\Debug\net5.0\Demo09_元组.pdb
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo09_元组\obj\Debug\net5.0\Demo09_元组.genruntimeconfig.cache
