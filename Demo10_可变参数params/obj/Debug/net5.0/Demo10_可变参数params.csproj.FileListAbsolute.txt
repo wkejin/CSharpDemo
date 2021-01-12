@@ -1,0 +1,16 @@
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo10_可变参数params\obj\Debug\net5.0\Demo10_可变参数params.csprojAssemblyReference.cache
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo10_可变参数params\obj\Debug\net5.0\Demo10_可变参数params.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo10_可变参数params\obj\Debug\net5.0\Demo10_可变参数params.AssemblyInfoInputs.cache
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo10_可变参数params\obj\Debug\net5.0\Demo10_可变参数params.AssemblyInfo.cs
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo10_可变参数params\obj\Debug\net5.0\Demo10_可变参数params.csproj.CoreCompileInputs.cache
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo10_可变参数params\bin\Debug\net5.0\Demo10_可变参数params.exe
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo10_可变参数params\bin\Debug\net5.0\Demo10_可变参数params.deps.json
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo10_可变参数params\bin\Debug\net5.0\Demo10_可变参数params.runtimeconfig.json
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo10_可变参数params\bin\Debug\net5.0\Demo10_可变参数params.runtimeconfig.dev.json
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo10_可变参数params\bin\Debug\net5.0\Demo10_可变参数params.dll
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo10_可变参数params\bin\Debug\net5.0\ref\Demo10_可变参数params.dll
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo10_可变参数params\bin\Debug\net5.0\Demo10_可变参数params.pdb
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo10_可变参数params\obj\Debug\net5.0\Demo10_可变参数params.dll
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo10_可变参数params\obj\Debug\net5.0\ref\Demo10_可变参数params.dll
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo10_可变参数params\obj\Debug\net5.0\Demo10_可变参数params.pdb
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo10_可变参数params\obj\Debug\net5.0\Demo10_可变参数params.genruntimeconfig.cache
