@@ -1,0 +1,16 @@
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo11_递归\bin\Debug\net5.0\Demo11_递归.exe
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo11_递归\bin\Debug\net5.0\Demo11_递归.deps.json
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo11_递归\bin\Debug\net5.0\Demo11_递归.runtimeconfig.json
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo11_递归\bin\Debug\net5.0\Demo11_递归.runtimeconfig.dev.json
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo11_递归\bin\Debug\net5.0\Demo11_递归.dll
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo11_递归\bin\Debug\net5.0\ref\Demo11_递归.dll
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo11_递归\bin\Debug\net5.0\Demo11_递归.pdb
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo11_递归\obj\Debug\net5.0\Demo11_递归.csprojAssemblyReference.cache
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo11_递归\obj\Debug\net5.0\Demo11_递归.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo11_递归\obj\Debug\net5.0\Demo11_递归.AssemblyInfoInputs.cache
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo11_递归\obj\Debug\net5.0\Demo11_递归.AssemblyInfo.cs
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo11_递归\obj\Debug\net5.0\Demo11_递归.csproj.CoreCompileInputs.cache
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo11_递归\obj\Debug\net5.0\Demo11_递归.dll
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo11_递归\obj\Debug\net5.0\ref\Demo11_递归.dll
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo11_递归\obj\Debug\net5.0\Demo11_递归.pdb
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo11_递归\obj\Debug\net5.0\Demo11_递归.genruntimeconfig.cache
