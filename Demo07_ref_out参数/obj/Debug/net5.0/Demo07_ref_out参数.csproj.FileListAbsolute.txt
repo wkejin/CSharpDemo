@@ -1,0 +1,16 @@
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo07_ref_out参数\bin\Debug\net5.0\Demo07_ref_out参数.exe
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo07_ref_out参数\bin\Debug\net5.0\Demo07_ref_out参数.deps.json
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo07_ref_out参数\bin\Debug\net5.0\Demo07_ref_out参数.runtimeconfig.json
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo07_ref_out参数\bin\Debug\net5.0\Demo07_ref_out参数.runtimeconfig.dev.json
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo07_ref_out参数\bin\Debug\net5.0\Demo07_ref_out参数.dll
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo07_ref_out参数\bin\Debug\net5.0\ref\Demo07_ref_out参数.dll
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo07_ref_out参数\bin\Debug\net5.0\Demo07_ref_out参数.pdb
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo07_ref_out参数\obj\Debug\net5.0\Demo07_ref_out参数.csprojAssemblyReference.cache
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo07_ref_out参数\obj\Debug\net5.0\Demo07_ref_out参数.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo07_ref_out参数\obj\Debug\net5.0\Demo07_ref_out参数.AssemblyInfoInputs.cache
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo07_ref_out参数\obj\Debug\net5.0\Demo07_ref_out参数.AssemblyInfo.cs
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo07_ref_out参数\obj\Debug\net5.0\Demo07_ref_out参数.csproj.CoreCompileInputs.cache
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo07_ref_out参数\obj\Debug\net5.0\Demo07_ref_out参数.dll
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo07_ref_out参数\obj\Debug\net5.0\ref\Demo07_ref_out参数.dll
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo07_ref_out参数\obj\Debug\net5.0\Demo07_ref_out参数.pdb
+D:\OneDrive\Code\wkejin\CSharpDemo\Demo07_ref_out参数\obj\Debug\net5.0\Demo07_ref_out参数.genruntimeconfig.cache
