@@ -1,5 +1,6 @@
 public class Teacher : Person
 {
+    public string Subject { get; set; }
     public decimal Salary { get; set; }
     public override void SayHi()
     {
