@@ -6,18 +6,43 @@ namespace Demo14_接口
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Person p = new Person();
+            p.Id = 1;
+            p.Name = "Tom";
+            p.Say();
+            p.Eat();
+            p.Work();
         }
     }
 
-    public class Person
+    public class Person : IAction
     {
         public int Id { get; set; }
         public string Name { get; set; }
 
-        public  void CHLSS()
+        public  void Say()
         {
-            Console.WriteLine("我是人类，我可以吃喝拉撒睡。");
+            Console.WriteLine("Hello!");
         }
+
+        public void Eat()
+        {
+            Console.WriteLine("I'm eating foods.");
+        }
+
+        public void Work()
+        {
+            Console.WriteLine("I'm working.");
+        }
+
+    }
+
+    //接口声明，继承接口的类必须实现其中所有定义的方法
+
+    public interface IAction
+    {
+        void Say();
+        void Eat();
+        void Work();
     }
 }
