@@ -8,19 +8,24 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Jin\\.nuget\\packages\\": {}
+    "C:\\Users\\Emiya\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OneDrive\\Code\\wkejin\\CSharpDemo\\Demo01\\Demo01.csproj",
+      "projectUniqueName": "C:\\Users\\Emiya\\OneDrive\\Code\\wkejin\\CSharpDemo\\Demo01\\Demo01.csproj",
       "projectName": "Demo01",
-      "projectPath": "D:\\OneDrive\\Code\\wkejin\\CSharpDemo\\Demo01\\Demo01.csproj",
-      "packagesPath": "C:\\Users\\Jin\\.nuget\\packages\\",
-      "outputPath": "D:\\OneDrive\\Code\\wkejin\\CSharpDemo\\Demo01\\obj\\",
+      "projectPath": "C:\\Users\\Emiya\\OneDrive\\Code\\wkejin\\CSharpDemo\\Demo01\\Demo01.csproj",
+      "packagesPath": "C:\\Users\\Emiya\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Emiya\\OneDrive\\Code\\wkejin\\CSharpDemo\\Demo01\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Jin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Emiya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
