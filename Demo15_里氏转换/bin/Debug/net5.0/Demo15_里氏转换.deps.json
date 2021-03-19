@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Demo15_里氏转换/1.0.0": {
+        "runtime": {
+          "Demo15_里氏转换.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Demo15_里氏转换/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

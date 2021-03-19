@@ -1,0 +1,16 @@
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo15_里氏转换\bin\Debug\net5.0\Demo15_里氏转换.exe
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo15_里氏转换\bin\Debug\net5.0\Demo15_里氏转换.deps.json
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo15_里氏转换\bin\Debug\net5.0\Demo15_里氏转换.runtimeconfig.json
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo15_里氏转换\bin\Debug\net5.0\Demo15_里氏转换.runtimeconfig.dev.json
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo15_里氏转换\bin\Debug\net5.0\Demo15_里氏转换.dll
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo15_里氏转换\bin\Debug\net5.0\ref\Demo15_里氏转换.dll
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo15_里氏转换\bin\Debug\net5.0\Demo15_里氏转换.pdb
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo15_里氏转换\obj\Debug\net5.0\Demo15_里氏转换.csprojAssemblyReference.cache
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo15_里氏转换\obj\Debug\net5.0\Demo15_里氏转换.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo15_里氏转换\obj\Debug\net5.0\Demo15_里氏转换.AssemblyInfoInputs.cache
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo15_里氏转换\obj\Debug\net5.0\Demo15_里氏转换.AssemblyInfo.cs
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo15_里氏转换\obj\Debug\net5.0\Demo15_里氏转换.csproj.CoreCompileInputs.cache
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo15_里氏转换\obj\Debug\net5.0\Demo15_里氏转换.dll
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo15_里氏转换\obj\Debug\net5.0\ref\Demo15_里氏转换.dll
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo15_里氏转换\obj\Debug\net5.0\Demo15_里氏转换.pdb
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo15_里氏转换\obj\Debug\net5.0\Demo15_里氏转换.genruntimeconfig.cache

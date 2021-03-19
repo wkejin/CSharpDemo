@@ -1,0 +1,16 @@
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo16_多态\bin\Debug\net5.0\Demo16_多态.exe
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo16_多态\bin\Debug\net5.0\Demo16_多态.deps.json
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo16_多态\bin\Debug\net5.0\Demo16_多态.runtimeconfig.json
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo16_多态\bin\Debug\net5.0\Demo16_多态.runtimeconfig.dev.json
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo16_多态\bin\Debug\net5.0\Demo16_多态.dll
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo16_多态\bin\Debug\net5.0\ref\Demo16_多态.dll
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo16_多态\bin\Debug\net5.0\Demo16_多态.pdb
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo16_多态\obj\Debug\net5.0\Demo16_多态.csprojAssemblyReference.cache
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo16_多态\obj\Debug\net5.0\Demo16_多态.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo16_多态\obj\Debug\net5.0\Demo16_多态.AssemblyInfoInputs.cache
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo16_多态\obj\Debug\net5.0\Demo16_多态.AssemblyInfo.cs
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo16_多态\obj\Debug\net5.0\Demo16_多态.csproj.CoreCompileInputs.cache
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo16_多态\obj\Debug\net5.0\Demo16_多态.dll
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo16_多态\obj\Debug\net5.0\ref\Demo16_多态.dll
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo16_多态\obj\Debug\net5.0\Demo16_多态.pdb
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo16_多态\obj\Debug\net5.0\Demo16_多态.genruntimeconfig.cache

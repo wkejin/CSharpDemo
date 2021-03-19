@@ -1,0 +1,16 @@
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo17_多态应用\obj\Debug\net5.0\Demo17_多态应用.csprojAssemblyReference.cache
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo17_多态应用\obj\Debug\net5.0\Demo17_多态应用.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo17_多态应用\obj\Debug\net5.0\Demo17_多态应用.AssemblyInfoInputs.cache
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo17_多态应用\obj\Debug\net5.0\Demo17_多态应用.AssemblyInfo.cs
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo17_多态应用\obj\Debug\net5.0\Demo17_多态应用.csproj.CoreCompileInputs.cache
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo17_多态应用\bin\Debug\net5.0\Demo17_多态应用.exe
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo17_多态应用\bin\Debug\net5.0\Demo17_多态应用.deps.json
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo17_多态应用\bin\Debug\net5.0\Demo17_多态应用.runtimeconfig.json
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo17_多态应用\bin\Debug\net5.0\Demo17_多态应用.runtimeconfig.dev.json
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo17_多态应用\bin\Debug\net5.0\Demo17_多态应用.dll
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo17_多态应用\bin\Debug\net5.0\ref\Demo17_多态应用.dll
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo17_多态应用\bin\Debug\net5.0\Demo17_多态应用.pdb
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo17_多态应用\obj\Debug\net5.0\Demo17_多态应用.dll
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo17_多态应用\obj\Debug\net5.0\ref\Demo17_多态应用.dll
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo17_多态应用\obj\Debug\net5.0\Demo17_多态应用.pdb
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo17_多态应用\obj\Debug\net5.0\Demo17_多态应用.genruntimeconfig.cache
