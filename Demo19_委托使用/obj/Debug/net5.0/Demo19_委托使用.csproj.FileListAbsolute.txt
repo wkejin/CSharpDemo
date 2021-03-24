@@ -1,0 +1,16 @@
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo19_委托使用\obj\Debug\net5.0\Demo19_委托使用.csprojAssemblyReference.cache
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo19_委托使用\obj\Debug\net5.0\Demo19_委托使用.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo19_委托使用\obj\Debug\net5.0\Demo19_委托使用.AssemblyInfoInputs.cache
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo19_委托使用\obj\Debug\net5.0\Demo19_委托使用.AssemblyInfo.cs
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo19_委托使用\obj\Debug\net5.0\Demo19_委托使用.csproj.CoreCompileInputs.cache
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo19_委托使用\bin\Debug\net5.0\Demo19_委托使用.exe
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo19_委托使用\bin\Debug\net5.0\Demo19_委托使用.deps.json
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo19_委托使用\bin\Debug\net5.0\Demo19_委托使用.runtimeconfig.json
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo19_委托使用\bin\Debug\net5.0\Demo19_委托使用.runtimeconfig.dev.json
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo19_委托使用\bin\Debug\net5.0\Demo19_委托使用.dll
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo19_委托使用\bin\Debug\net5.0\ref\Demo19_委托使用.dll
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo19_委托使用\bin\Debug\net5.0\Demo19_委托使用.pdb
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo19_委托使用\obj\Debug\net5.0\Demo19_委托使用.dll
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo19_委托使用\obj\Debug\net5.0\ref\Demo19_委托使用.dll
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo19_委托使用\obj\Debug\net5.0\Demo19_委托使用.pdb
+C:\Users\Emiya\OneDrive\Code\wkejin\CSharpDemo\Demo19_委托使用\obj\Debug\net5.0\Demo19_委托使用.genruntimeconfig.cache
