@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Demo18_委托/1.0.0": {
+        "runtime": {
+          "Demo18_委托.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Demo18_委托/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

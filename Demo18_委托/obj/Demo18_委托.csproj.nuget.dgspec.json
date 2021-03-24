@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Emiya\\OneDrive\\Code\\wkejin\\CSharpDemo\\Demo01\\Demo01.csproj": {}
+    "C:\\Users\\Emiya\\OneDrive\\Code\\wkejin\\CSharpDemo\\Demo18_委托\\Demo18_委托.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Emiya\\OneDrive\\Code\\wkejin\\CSharpDemo\\Demo01\\Demo01.csproj": {
+    "C:\\Users\\Emiya\\OneDrive\\Code\\wkejin\\CSharpDemo\\Demo18_委托\\Demo18_委托.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emiya\\OneDrive\\Code\\wkejin\\CSharpDemo\\Demo01\\Demo01.csproj",
-        "projectName": "Demo01",
-        "projectPath": "C:\\Users\\Emiya\\OneDrive\\Code\\wkejin\\CSharpDemo\\Demo01\\Demo01.csproj",
+        "projectUniqueName": "C:\\Users\\Emiya\\OneDrive\\Code\\wkejin\\CSharpDemo\\Demo18_委托\\Demo18_委托.csproj",
+        "projectName": "Demo18_委托",
+        "projectPath": "C:\\Users\\Emiya\\OneDrive\\Code\\wkejin\\CSharpDemo\\Demo18_委托\\Demo18_委托.csproj",
         "packagesPath": "C:\\Users\\Emiya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emiya\\OneDrive\\Code\\wkejin\\CSharpDemo\\Demo01\\obj\\",
+        "outputPath": "C:\\Users\\Emiya\\OneDrive\\Code\\wkejin\\CSharpDemo\\Demo18_委托\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
